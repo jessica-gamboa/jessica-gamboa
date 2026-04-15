@@ -1,4 +1,4 @@
-# Olá! Eu sou a Jéssica 👋
+# Olá! Eu sou a Jéssica 
 
 🎓 Graduanda em Física pela USP  
 📊 Foco em Ciência de Dados e Modelagem Científica   
