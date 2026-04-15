@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! Eu sou a Jéssica 👋
 
-<!--
-**jessica-gamboa/jessica-gamboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduanda em Física pela USP  
+📊 Foco em Ciência de Dados e Modelagem Científica   
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias
+- Python (Pandas, NumPy, SciPy, Scikit-learn)
+- R, SQL
+- Análise estatística e modelagem numérica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- 🔭 Análise de dados da missão Gaia  
+- ☁️ Simulação de formação de nuvens  
+- 📊 Visualização e tratamento de dados  
